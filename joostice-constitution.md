@@ -540,11 +540,41 @@ The association may effect and maintain insurance.
 
 #### 39. Change of name, objects and constitution
 
+An application to the Director-General for registration of a change in the association’s name, objects or constitution in accordance with section 10 of the Act is to be made by the public officer or a committee member.
+
 #### 40. Custody of books etc
+
+Except as otherwise provided by this constitution, the public officer must keep in his or her custody or under his or her control all records, books and other documents relating to the association.
 
 #### 41. Inspection of books etc
 
+- (1) The following documents must be open to inspection, free of charge, by a member of the association at any reasonable hour:
+
+	- (a) records, books and other financial documents of the association,
+	- (b) this constitution,
+	- (c) minutes of all committee meetings and general meetings of the association.
+
+- (2) A member of the association may obtain a copy of any of the documents referred to in subclause (1) on payment of a fee of not more than $1 for each page copied.
+
 #### 42. Service of notices
+
+- (1) For the purpose of this constitution, a notice may be served on or given to a person:
+
+	- (a) by delivering it to the person personally, or
+	- (b) by sending it by pre-paid post to the address of the person, or
+	- (c) by sending it by facsimile transmission or some other form of electronic transmission to an address specified by the person for giving or serving the notice.
+
+- (2) For the purpose of this constitution, a notice is taken, unless the contrary is proved, to have been given or served:
+	
+	- (a) in the case of a notice given or served personally, on the date on which it is received by the addressee, and
+	- (b) in the case of a notice sent by pre-paid post, on the date when it would have been delivered in the ordinary course of post, and
+	- (c) in the case of a notice sent by facsimile transmission or some other form of electronic transmission, on the date it was sent or, if the machine from which the transmission was sent produces a report indicating that the notice was sent on a later date, on that date.
 
 #### 43. Financial year
 
+The financial year of the association is:
+
+- (a) the period of time commencing on the date of incorporation of the association and ending on the following 1 March, and
+- (b) each period of 12 months after the expiration of the previous financial year of the association, commencing on 1 March and ending on the following last day of February.
+
+_Note: Schedule 1 of the Act provides that an association’s constitution is to address the association’s financial year._
