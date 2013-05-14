@@ -243,6 +243,28 @@ Subject to the Act, the Regulation and this constitution and to any resolution p
 
 #### 15. Composition and membership of committee
 
+- (1) The committee is to consist of:
+
+	- (a) the office-bearers of the association
+	- (b) ordinary committee members, each of whom is to be elected at the annual general meeting of the association under clause 16.
+
+- (2) The total number of committee members is to be not less than 3.
+
+- (3) The office-bearers of the association are as follows:
+	
+	- (a) the chair,
+	- (b) the deputy-chair, 
+	- (c) the treasurer, 
+	- (d) the secretary.
+
+- (4) A committee member may hold up to 2 offices (other than both the chair and deputy-chair offices).
+
+- (5) A committee member may not hold office on the committee for more than five consecutive years.
+
+- (6) Subject to subclause (5), a committee member who ceases to be a committee member at any time may after a period of one year rejoin the committee. In such a case the maximum term that the committee member may hold office is an additional five years.
+
+- (7) Subclause (6) is not a final restriction and a committee member may leave and rejoin the committee an indefinite number of times in appropriate cases.
+
 #### 16. Election of committee members
 
 #### 17. Secretary
