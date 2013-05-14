@@ -2,11 +2,13 @@ Constitution of Joostice NSW <insert Inc number>
 ===
 ### Under the Associations Incorporation Act 2009
 
-Contents
-Part 1 - Preliminary
-	Definitions
-Part 2 - Membership 
-	Membership generally
+### Contents
+#### 1. Preliminary
+		1. Objects
+		2. Definitions
+
+#### 2. Membership 
+		Membership generally
 	Nomination for membership
 	Cessation of membership
 	Membership entitlements not transferable
