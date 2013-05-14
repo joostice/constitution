@@ -5,21 +5,21 @@ Constitution of Joostice NSW [insert inc number]
 ### Contents
 
 #### 1. Preliminary
-1. Objects
-2. Definitions
+- 1. Objects
+- 2. Definitions
 
 #### 2. Membership 
-3. Membership generally
-4. Nomination for membership
-5. Cessation of membership
-6. Membership entitlements not transferable
-7. Resignation of membership
-8. Register of members
-9. Fees and subscriptions
-10. Members' liabilities
-11. Resolution of disputes
-12. Disciplining of members
-13. Right of appeal of disciplined member
+- 3. Membership generally
+- 4. Nomination for membership
+- 5. Cessation of membership
+- 6. Membership entitlements not transferable
+- 7. Resignation of membership
+- 8. Register of members
+- 9. Fees and subscriptions
+- 10. Members' liabilities
+- 11. Resolution of disputes
+- 12. Disciplining of members
+- 13. Right of appeal of disciplined member
 
 #### 3. The committee 
 14. Powers of the committee
