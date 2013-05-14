@@ -267,6 +267,23 @@ Subject to the Act, the Regulation and this constitution and to any resolution p
 
 #### 16. Election of committee members
 
+- (1) Nominations of candidates for election as office-bearers of the association or as ordinary committee members:
+
+	- (a) must be made in writing, in the form set out in Appendix 2 to this constitution, signed by 2 members of the association and accompanied by the written consent of the candidate (which may be endorsed on the form of the nomination), and
+	- (b) must be delivered to the secretary of the association at least 7 days before the date fixed for the holding of the annual general meeting at which the election is to take place.
+
+- (2) If insufficient nominations are received to fill all vacancies on the committee, the candidates nominated are taken to be elected and further nominations are to be received at the annual general meeting.
+
+- (3) If insufficient further nominations are received, any vacant positions remaining on the committee are taken to be casual vacancies.
+
+- (4) If the number of nominations received is equal to the number of vacancies to be filled, the persons nominated are taken to be elected.
+
+- (5) If the number of nominations received exceeds the number of vacancies to be filled, a ballot is to be held.
+
+- (6) The ballot for the election of office-bearers and ordinary committee members of the committee is to be conducted at the annual general meeting in such usual and proper manner as the committee may direct.
+
+- (7) A person nominated as a candidate for election as an office-bearer or as an ordinary committee member of the association must be a member of the association.
+
 #### 17. Secretary
 
 #### 18. Treasurer
