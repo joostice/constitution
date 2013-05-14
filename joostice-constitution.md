@@ -228,3 +228,18 @@ action taken, of the reasons given by the committee for having taken that action
 	- (c) the members present are to vote by secret ballot on the question of whether the resolution should be confirmed or revoked.
 
 - (5) The appeal is to be determined by a simple majority of votes cast by members of the association.
+
+---
+
+### 3. The committee 
+
+####- 14. Powers of the committee
+####- 15. Composition and membership of committee
+####- 16. Election of committee members
+####- 17. Secretary
+####- 18. Treasurer
+- 19. Casual vacancies
+- 20. Removal of committee members
+- 21. Committee meetings and quorum
+- 22. Delegation by committee to sub-committee
+- 23. Voting and decisions
