@@ -71,7 +71,7 @@ Constitution of Joostice NSW [insert inc number]
 
 #### 2. Definitions
 
-(1) In this constitution:
+1. In this constitution:
 
 - __association__ means Joostice Incorporated [insert inc #] trading as Joostice
 
@@ -95,10 +95,10 @@ Constitution of Joostice NSW [insert inc number]
 
 - __the Regulation__ means the Associations Incorporation Regulation 2010.
 
-(2) In this constitution:
+2. In this constitution:
 
-	(a) a reference to a function includes a reference to a power, authority and duty, and
+1. a reference to a function includes a reference to a power, authority and duty, and
 
-	(b) a reference to the exercise of a function includes, if the function is a duty, a reference to the performance of the duty.
+2.  a reference to the exercise of a function includes, if the function is a duty, a reference to the performance of the duty.
 
-(3) The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
+3. The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
