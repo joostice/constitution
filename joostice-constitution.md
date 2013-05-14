@@ -636,8 +636,7 @@ I, [full name], a member of the association, second the nomination of the applic
 ### Appendix 3 - Joostice Proxy Form
 #### (Clause 34 (2))
 
-To: The Secretary 
-Joostice
+To: The Secretary of Joostice
 
 #### Proxy Vote
 
