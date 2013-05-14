@@ -132,16 +132,99 @@ Constitution of Joostice NSW [insert inc number]
 #### 5. Cessation of membership
 
 A person ceases to be a member of the association if the person:
+
 - (a) dies, or
 - (b) resigns membership, or
 - (c) is expelled from the association, or
 - (d) fails to pay the annual membership fee under clause 9 (2) within 6 months after the fee is due.
 
 #### 6. Membership entitlements not transferable
+
+A right, privilege or obligation which a person has by reason of being a member of the association:
+
+- (a) is not capable of being transferred or transmitted to another person, and 
+- (b) terminates on cessation of the person’s membership.
+
 #### 7. Resignation of membership
+
+- (1) A member of the association may resign from membership of the association by first giving to the secretary written notice of the member’s intention to resign and, at the end of the month after the notice was received, the member ceases to be a member.
+
+- (2) If a member of the association ceases to be a member under subclause (1), and in every other case where a member ceases to hold membership, the secretary must make an appropriate entry in the register of members recording the date on which the member ceased to be a member.
+
 #### 8. Register of members
+
+- (1) The public officer of the association must establish and maintain a register of members of the association specifying the name and postal or residential address of each person who is a member of the association together with the date on which the person became a member.
+
+- (2) The register of members must be kept in New South Wales:
+
+	- (a) at the main premises of the association, or
+	- (b) if the association has no premises, at the association’s official address.
+
+- (3) The register of members must be open for inspection, free of charge, by any member of the association at any reasonable hour.
+
+- (4) A member of the association may obtain a copy of any part of the register on payment of a fee of not more than $1 for each page copied.
+
+- (5) If a member requests that any information contained on the register about the member (other than the member’s name) not be available for inspection, that information must not be made available for inspection.
+
+- (6) A member must not use information about a person obtained from the register to contact or send material to the person, other than for:
+
+	- (a) the purposes of sending the person a newsletter, a notice in respect of a meeting or other event relating to the association or other material relating to the association, or
+	- (b) any other purpose necessary to comply with a requirement of the Act or the Regulation.
+
 #### 9. Fees and subscriptions
+
+- (1) A member of the association must, on admission to membership, pay to the association a fee of $1 or, if some other amount is determined by the committee, that other amount.
+
+- (2) In addition to any amount payable by the member under subclause (1), a member of the association must pay to the association an annual membership fee of $2 or, if some other amount is determined by the committee, that other amount before 1 July in each calendar year.
+
 #### 10. Members' liabilities
+
+The liability of a member of the association to contribute towards the payment of the debts and liabilities of the association or the costs, charges and expenses of the winding up of the association is limited to the amount, if any, unpaid by the member in respect of membership of the association as required by clause 9.
+
 #### 11. Resolution of disputes
+
+- (1) A dispute between a member and another member (in their capacity as members) of the association, or a dispute between a member or members and the association, are to be referred to a community justice centre for mediation under the Community Justice Centres Act 1983.
+
+- (2) If a dispute is not resolved by mediation within 3 months of the referral to a community justice centre, the dispute is to be referred to arbitration.
+
+- (3) The Commercial Arbitration Act 2010 applies to any such dispute referred to arbitration.
+
 #### 12. Disciplining of members
+
+- (1) A complaint may be made to the committee by any person that a member of the association:
+
+	- (a) has refused or neglected to comply with a provision or provisions of this constitution, or
+	- (b) has wilfully acted in a manner prejudicial to the interests of the association.
+
+- (2) The committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature.
+
+- (3) If the committee decides to deal with the complaint, the committee:
+
+	- (a) must cause notice of the complaint to be served on the member concerned, and
+	- (b) must give the member at least 14 days from the time the notice is served within which to make submissions to the committee in connection with the complaint, and
+	- (c) must take into consideration any submissions made by the member in connection with the complaint.
+
+- (4) The committee may, by resolution, expel the member from the association or suspend the member from membership of the association if, after considering the complaint and any submissions made in connection with the complaint, it is satisfied that the facts alleged in the complaint have been proved and the expulsion or suspension is warranted in the circumstances.
+
+- (5) If the committee expels or suspends a member, the secretary must, within 7 days after the action is taken, cause written notice to be given to the member of the
+action taken, of the reasons given by the committee for having taken that action and of the member’s right of appeal under clause 13.
+
+- (6) The expulsion or suspension does not take effect:
+
+	-(a) until the expiration of the period within which the member is entitled to appeal against the resolution concerned, or
+	- (b) if within that period the member exercises the right of appeal, unless and until the association confirms the resolution under clause 13, whichever is the later.
+
 #### 13. Right of appeal of disciplined member
+
+- (1) A member may appeal to the association in general meeting against a resolution of the committee under clause 12, within 7 days after notice of the resolution is served on the member, by lodging with the secretary a notice to that effect.
+
+- (2) The notice may, but need not, be accompanied by a statement of the grounds on which the member intends to rely for the purposes of the appeal.
+
+- (3) On receipt of a notice from a member under subclause (1), the secretary must notify the committee which is to convene a general meeting of the association to be held within 28 days after the date on which the secretary received the notice.
+
+- (4) At a general meeting of the association convened under subclause (3):
+	- (a) no business other than the question of the appeal is to be transacted, and
+	- (b) the committee and the member must be given the opportunity to state their respective cases orally or in writing, or both, and
+	- (c) the members present are to vote by secret ballot on the question of whether the resolution should be confirmed or revoked.
+
+- (5) The appeal is to be determined by a simple majority of votes cast by members of the association.
