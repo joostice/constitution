@@ -90,3 +90,19 @@ Constitution of Joostice NSW [insert inc number]
 	- (b)  a reference to the exercise of a function includes, if the function is a duty, a reference to the performance of the duty.
 
 - 3 - The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
+
+---
+
+### 2.  Membership 
+
+#### 3. Membership generally
+#### 4. Nomination for membership
+#### 5. Cessation of membership
+#### 6. Membership entitlements not transferable
+#### 7. Resignation of membership
+#### 8. Register of members
+#### 9. Fees and subscriptions
+#### 10. Members' liabilities
+#### 11. Resolution of disputes
+#### 12. Disciplining of members
+#### 13. Right of appeal of disciplined member
