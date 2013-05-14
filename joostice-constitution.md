@@ -98,12 +98,15 @@ Constitution of Joostice NSW [insert inc number]
 #### 3. Membership generally
 
 - (1) A person is eligible to be a member of the association if:
+
 	- (a) the person is a natural person, and
 	- (b) the person has been nominated and approved for membership of the association in accordance with clause 4.
 
 - (2) A person is taken to be a member of the association if:
+
 	- (a) the person is a natural person, and
 	- (b) the person was:
+
 		- (i) in the case of an unincorporated body that is registered as the association - a member of that unincorporated body immediately before the registration of the association, or
 		- (ii) in the case of a registrable corporation that is registered as an association - a member of the registrable corporation immediately before that entity was registered as an association.
 
