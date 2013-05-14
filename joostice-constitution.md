@@ -211,7 +211,7 @@ action taken, of the reasons given by the committee for having taken that action
 
 - (6) The expulsion or suspension does not take effect:
 
-	-(a) until the expiration of the period within which the member is entitled to appeal against the resolution concerned, or
+	- (a) until the expiration of the period within which the member is entitled to appeal against the resolution concerned, or
 	- (b) if within that period the member exercises the right of appeal, unless and until the association confirms the resolution under clause 13, whichever is the later.
 
 #### 13. Right of appeal of disciplined member
