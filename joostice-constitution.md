@@ -578,3 +578,30 @@ The financial year of the association is:
 - (b) each period of 12 months after the expiration of the previous financial year of the association, commencing on 1 March and ending on the following last day of February.
 
 _Note: Schedule 1 of the Act provides that an association’s constitution is to address the association’s financial year._
+
+---
+
+### Appendix 1 - Application for membership of association
+#### (Clause 3 (1))
+
+##### APPLICATION FOR MEMBERSHIP OF ASSOCIATION
+##### JOOSTICE INCOPORATED [insert inc #]
+
+Incoporated (incoporated under the _Associations Incorporation Act 2009_)
+
+
+I, [full name of applicant] of [address], [occupation], hereby apply to become a member of the above named incorporated association. In the event of my admission as a member, I agree to be bound by the constitution of the association for the time being in force.
+
+[signature of applicant]
+
+
+I, [full name],  a member of the association, nominate the applicant for membership of the association.
+
+[signature of proposer] [date] 
+
+
+I, [full name],  a member of the association, second the nomination of the applicant for membership of the association.
+
+[signature of seconder] [date] 
+
+---
