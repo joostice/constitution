@@ -319,6 +319,10 @@ It is the duty of the treasurer of the association to ensure:
 
 #### 20. Removal of committee members
 
+- (1) The association in general meeting may by resolution remove any member of the committee from the office of member before the expiration of the member’s term of office and may by resolution appoint another person to hold office until the expiration of the term of office of the member so removed.
+
+- (2) If a member of the committee to whom a proposed resolution referred to in subclause (1) relates makes representations in writing to the secretary or chair (not exceeding a reasonable length) and requests that the representations be notified to the members of the association, the secretary or the chair may send a copy of the representations to each member of the association or, if the representations are not so sent, the member is entitled to require that the representations be read out at the meeting at which the resolution is considered.
+
 #### 21. Committee meetings and quorum
 
 #### 22. Delegation by committee to sub-committee
