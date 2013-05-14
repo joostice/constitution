@@ -63,4 +63,26 @@ Constitution of Joostice NSW [insert inc number]
 
 ---
 
+### 1. Preliminary
 
+#### 1. Objects
+
+[insert joostice objects]
+
+#### 2. Definitions
+
+(1) In this constitution:
+- _association_ means Joostice Incorporated [insert inc #] trading as Joostice
+- committee means Committee of Management or any other committee where the affairs of the association are managed.
+- Director-General means the Director-General of the Department of Services, Technology and Administration.
+-  ordinary committee member means a member of the committee who is not an office-bearer of the association.
+- Joostice means Joostice Incorporated [insert inc #].
+- secretary means:
+(a) the person holding office under this constitution as secretary of the association, or
+(b) if no such person holds that office - the public officer of the association.
+- special general meeting means a general meeting of the association other than an annual general meeting.
+- the Act means the Associations Incorporation Act 2009.
+- the Regulation means the Associations Incorporation Regulation 2010. (2) In this constitution:
+(a) a reference to a function includes a reference to a power, authority and duty, and
+(b) a reference to the exercise of a function includes, if the function is a duty, a reference to the performance of the duty.
+(3) The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
