@@ -607,7 +607,7 @@ I, [full name],  a member of the association, second the nomination of the appli
 ---
 
 ### Appendix 2 - Application for membership of the committee
-#### (Clause 16(2))
+#### (Clause 16 (2))
 
 ##### APPLICATION FOR MEMBERSHIP OF ASSOCIATION COMMITTEE
 ##### JOOSTICE INCOPORATED [insert inc #]
@@ -620,13 +620,16 @@ In the event of my admission as a committee member, I agree to be bound by the c
 
 [signature of applicant] [date]
 
+
 I, [full name], a member of the association, nominate the applicant for committee membership of the association.
 
 [signature of the proposer] [date]
 
+
 I, [full name], a member of the association, second the nomination of the applicant for committee membership of the association.
 
 [signature of seconder] [date]
+
 
 ---
 
