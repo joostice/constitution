@@ -520,7 +520,7 @@ The association may effect and maintain insurance.
 
 #### 37. Funds - source
 
-- (1) The funds of the association are to be derived from entrance fees and annual subscriptions of members, donations and, subject to any resolution passed by the association in general meeting, such other sources as the committee determines.
+- (1) The funds of the association are to be derived from entrance fees and annual subscriptions of members, donations, commercial business activities, and, subject to any resolution passed by the association in general meeting, such other sources as the committee determines.
 
 - (2) All money received by the association must be deposited as soon as practicable and without deduction to the credit of the association’s bank or other authorised deposit-taking institution account.
 
@@ -633,5 +633,16 @@ I, [full name], a member of the association, second the nomination of the applic
 
 ---
 
+### Appendix 3 - Joostice Proxy Form
 
+To: The Secretary 
+Joostice
 
+#### Proxy Vote
+
+I, [full name], of [address], a member of Joostice, hereby appoint [full name] of [address] to vote for me and on my behalf at the AGM of the organisation to be held on [date] at [venue and address] and at every adjournment thereof.
+
+As witness my hand [signature],
+this [day] day of [month], [year]
+
+---
