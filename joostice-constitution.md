@@ -116,8 +116,8 @@ Constitution of Joostice NSW [insert inc number]
 
 - (1) A nomination of a person for membership of the association:
 	
-	-(a) must be made by a member of the association in writing in the form set out in Appendix 1 to this constitution, and
-	-(b) must be lodged with the secretary of the association.
+	- (a) must be made by a member of the association in writing in the form set out in Appendix 1 to this constitution, and
+	- (b) must be lodged with the secretary of the association.
 
 - (2) As soon as practicable after receiving a nomination for membership, the secretary must refer the nomination to the committee which is to determine whether to approve or to reject the nomination.
 
