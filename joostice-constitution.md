@@ -325,6 +325,30 @@ It is the duty of the treasurer of the association to ensure:
 
 #### 21. Committee meetings and quorum
 
+- (1) The committee must meet at least 3 times in each period of 12 months at such place and time as the committee may determine.
+
+- (2) Additional meetings of the committee may be convened by the chair or by any member of the committee.
+
+- (3) Oral or written notice of a meeting of the committee must be given by the secretary, chair or Executive Director to each member of the committee at least 48 hours (or such other period as may be unanimously agreed on by the members of the committee) before the time appointed for the holding of the meeting.
+
+- (4) Notice of a meeting given under subclause (3) must specify the general nature of the business to be transacted at the meeting and no business other than that business is to be transacted at the meeting, except business which the committee members present at the meeting unanimously agree to treat as urgent business.
+
+- (5) Any 3 members of the committee constitute a quorum for the transaction of the business of a meeting of the committee.
+
+- (6) Attendance at a committee meeting may be in person or by telephone hook-up or other equivalent technology allowing interaction face-to-face or by voice.
+
+- (7) Participation by telephone hook-up or other electronic means referred to in subclause (6) shall constitute attendance at the meeting by that member for the purpose of establishing a quorum.
+
+- (8) No business is to be transacted by the committee unless a quorum is present and if, within half an hour of the time appointed for the meeting, a quorum is not present, the meeting is to stand adjourned.
+
+- (9) If at the adjourned meeting a quorum is not present within half an hour of the time appointed for the meeting, the meeting is to be dissolved.
+
+- (10) At a meeting of the committee:
+	- (a) the chair or, in the chair’s absence, the deputy-chair is to preside, or
+	- (b) if the chair and the deputy-chair are absent or unwilling to act, such one of the remaining members of the committee as may be chosen by the members present at the meeting is to preside.
+
+- (11) The Executive Director shall not be a member of the committee or a general member, except in the case of the founding Executive Director who may be a general member without voting rights for as long as the person is holding the position of Executive Director.
+
 #### 22. Delegation by committee to sub-committee
 
 #### 23. Voting and decisions
