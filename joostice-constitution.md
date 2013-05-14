@@ -414,7 +414,36 @@ It is the duty of the treasurer of the association to ensure:
 
 #### 26. Special general meetings - calling of
 
+- (1) The committee may, whenever it thinks fit, convene a special general meeting of the association.
+
+- (2) The committee must, on the requisition in writing of at least 50% per cent of the total number of members, convene a special general meeting of the association.
+
+- (3) A requisition of members for a special general meeting:
+	- (a) must state the purpose or purposes of the meeting, and
+	- (b) must be signed by the members making the requisition, attending
+	- (c) must be lodged with the secretary, and
+	- (d) may consist of several documents in a similar form, each signed by one or more of the members making the requisition.
+
+- (4) If the committee fails to convene a special general meeting to be held within 1 month after that date on which a requisition of members for the meeting is lodged with the secretary, any one or more of the members who made the requisition may convene a special general meeting to be held not later than 3 months after that date.
+
+- (5) A special general meeting convened by a member or members as referred to in subclause (4) must be convened as nearly as is practicable in the same manner as general meetings are convened by the committee.
+
 #### 27. Notice
+
+- (1) The committee may, whenever it thinks fit, convene a special general meeting of the association.
+
+- (2) The committee must, on the requisition in writing of at least 50% per cent of the total number of members, convene a special general meeting of the association.
+
+- (3) A requisition of members for a special general meeting:
+	
+	- (a) must state the purpose or purposes of the meeting, and
+	- (b) must be signed by the members making the requisition, and
+	- (c) must be lodged with the secretary, and
+	- (d) may consist of several documents in a similar form, each signed by one or more of the members making the requisition.
+
+- (4) If the committee fails to convene a special general meeting to be held within 1 month after that date on which a requisition of members for the meeting is lodged with the secretary, any one or more of the members who made the requisition may convene a special general meeting to be held not later than 3 months after that date.
+
+- (5) A special general meeting convened by a member or members as referred to in subclause (4) must be convened as nearly as is practicable in the same manner as general meetings are convened by the committee.
 
 #### 28. Quorum for general meetings
 
