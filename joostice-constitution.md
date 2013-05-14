@@ -501,7 +501,7 @@ A special resolution may only be passed by the association in accordance with se
 
 - (2) A proxy may be appointed only:
 
-	- (a) by another member in writing in the form set out in Appendix 2 of this constitution, and
+	- (a) by another member in writing in the form set out in Appendix 3 of this constitution, and
 	- (b) must be lodged with the secretary prior to or at the relevant general meeting.
 
 #### 35. Electronic ballots
@@ -634,6 +634,7 @@ I, [full name], a member of the association, second the nomination of the applic
 ---
 
 ### Appendix 3 - Joostice Proxy Form
+#### (Clause 34 (2))
 
 To: The Secretary 
 Joostice
