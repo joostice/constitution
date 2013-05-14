@@ -370,3 +370,15 @@ It is the duty of the treasurer of the association to ensure:
 - (7) A sub-committee may meet and adjourn as it thinks proper.
 
 #### 23. Voting and decisions
+
+- (1) Questions requiring formal decisions that arise at a meeting are to be determined by a majority of the votes of members of the committee present.
+
+- (2) For the purpose of determining questions arising at a meeting of the committee the presiding officer shall accept the votes of any committee members received by the secretary by email regarding those questions. However, if a member of the committee demands such evidence, the hard copy of these email votes shall be tabled by the secretary or any other person attending in possession of such hard copies.
+
+- (3) It shall not be required in all cases that hard copy evidence of these votes by email be presented at the meeting. However if a member of the committee demands such evidence the hard copy of these email votes shall be tabled by the secretary or any other person attending in possession of such hard copies.
+
+- (4) Each member present at a meeting of the committee or of any sub-committee appointed by the committee (including the person presiding at the meeting) is entitled to one vote but, in the event of an equality of votes on any question, the person presiding may exercise a second or casting vote.
+
+- (5) Subject to clause 21 (5), the committee may act despite any vacancy on the committee.
+
+- (6) Any act or thing done or suffered, or purporting to have been done or suffered, by the committee or by a sub-committee appointed by the committee, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the committee or sub-committee.
