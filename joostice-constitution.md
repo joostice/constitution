@@ -113,6 +113,22 @@ Constitution of Joostice NSW [insert inc number]
 - (3) A person is taken to be a member of the association if the person was one of the individuals on whose behalf an application for registration of the association under section 6 (1) (a) of the Act was made.
 
 #### 4. Nomination for membership
+
+- (1) A nomination of a person for membership of the association:
+	
+	-(a) must be made by a member of the association in writing in the form set out in Appendix 1 to this constitution, and
+	-(b) must be lodged with the secretary of the association.
+
+- (2) As soon as practicable after receiving a nomination for membership, the secretary must refer the nomination to the committee which is to determine whether to approve or to reject the nomination.
+
+- (3) As soon as practicable after the committee makes that determination, the secretary must:
+	- (a) notify the nominee, in writing, that the committee approved or rejected the nomination (whichever is applicable), and
+	- (b) if the committee approved the nomination, request the nominee to pay (within the period of 28 days after receipt by the nominee of the notification) the sum payable under this constitution by a member as entrance fee and annual subscription.
+
+- (4) The secretary must, on payment by the nominee of the amounts referred to in subclause (3)(b) within the period referred to in that provision, enter or cause to be entered the nominee’s name in the register of members and, on the name being so entered, the nominee becomes a member of the association.
+
+- (5) In lieu of the nomination process set out in subclauses 4(1) to 4(4) above the committee may from time to time pass resolutions confirming that certain persons be recognised as members of the association and the secretary shall enter the names of those persons in the register of members.
+
 #### 5. Cessation of membership
 #### 6. Membership entitlements not transferable
 #### 7. Resignation of membership
