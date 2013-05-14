@@ -1,5 +1,6 @@
-JOOSTICE constitution
-Under the Associations Incorporation Act 2009
+Constitution of Joostice NSW <insert Inc number>
+===
+### Under the Associations Incorporation Act 2009
 
 Contents
 Part 1 - Preliminary
