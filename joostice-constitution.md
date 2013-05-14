@@ -130,6 +130,13 @@ Constitution of Joostice NSW [insert inc number]
 - (5) In lieu of the nomination process set out in subclauses 4(1) to 4(4) above the committee may from time to time pass resolutions confirming that certain persons be recognised as members of the association and the secretary shall enter the names of those persons in the register of members.
 
 #### 5. Cessation of membership
+
+A person ceases to be a member of the association if the person:
+- (a) dies, or
+- (b) resigns membership, or
+- (c) is expelled from the association, or
+- (d) fails to pay the annual membership fee under clause 9 (2) within 6 months after the fee is due.
+
 #### 6. Membership entitlements not transferable
 #### 7. Resignation of membership
 #### 8. Register of members
