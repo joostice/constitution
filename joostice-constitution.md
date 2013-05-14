@@ -235,6 +235,12 @@ action taken, of the reasons given by the committee for having taken that action
 
 #### 14. Powers of the committee
 
+Subject to the Act, the Regulation and this constitution and to any resolution passed by the association in general meeting, the committee:
+
+- (a) is to control and manage the affairs of the association, and
+- (b) may exercise all such functions as may be exercised by the association, other than those functions that are required by this constitution to be exercised by a general meeting of members of the association, and
+- (c) has power to perform all such acts and do all such things as appear to the committee to be necessary or desirable for the proper management of the affairs of the association.
+
 #### 15. Composition and membership of committee
 
 #### 16. Election of committee members
