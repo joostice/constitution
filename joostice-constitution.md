@@ -447,16 +447,68 @@ It is the duty of the treasurer of the association to ensure:
 
 #### 28. Quorum for general meetings
 
+- (1) No item of business is to be transacted at a general meeting unless a quorum of members entitled under this constitution to vote is present during the time the meeting is considering that item.
+
+- (2) Three members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
+
+- (3) If within half an hour after the appointed time for the commencement of a general meeting a quorum is not present, the meeting:
+
+	- (a) if convened on the requisition of members, is to be dissolved, and 
+	- (b) in any other case, is to stand adjourned
+
 #### 29. Presiding member
+
+- (1) The chair or, in the chair’s absence, the deputy-chair, is to preside as chairperson at each general meeting of the association.
+
+- (2) If the chair and the deputy-chair are absent or unwilling to act, the members present must elect one of their number to preside as chairperson at the meeting.
 
 #### 30. Adjournment
 
+- (1) The chairperson of a general meeting at which a quorum is present may, with the consent of the majority of members present at the meeting, adjourn the meeting from time to time and place to place, but no business is to be transacted at an adjourned meeting other than the business left unfinished at the meeting at which the adjournment took place.
+
+- (2) If a general meeting is adjourned for 14 days or more, the secretary must give written or oral notice of the adjourned meeting to each member of the association stating the place, date and time of the meeting and the nature of the business to be transacted at the meeting.
+
+- (3) Except as provided in subclauses (1) and (2), notice of an adjournment of a general meeting or of the business to be transacted at an adjourned meeting is not required to be given.
+
 #### 31. Making of decisions
+
+- (1) A question arising at a general meeting of the association is to be determined by either:
+	
+	- (a) a show of hands, or
+	- (b) if on the motion of the chairperson or over half (50% + 1) those at the meeting decide that the question should be determined by a written ballot—a written ballot.
+
+- (2) If the question is to be determined by a show of hands, a declaration by the chairperson that a resolution has, on a show of hands, been carried or carried unanimously or carried by a particular majority or lost, or an entry to that effect in the minute book of the association, is evidence of the fact without proof of the number or proportion of the votes recorded in favour of or against that resolution.
+
+- (3) If the question is to be determined by a written ballot, the ballot is to be conducted in accordance with the directions of the chairperson.
 
 #### 32. Special resolutions
 
+A special resolution may only be passed by the association in accordance with section 39 of the Act.
+
 #### 33. Voting	
+
+- (1) On any question arising at a general meeting of the association a member has one vote only.
+
+- (2) In the case of an equality of votes on a question at a general meeting, the chairperson of the meeting is entitled to exercise a second or casting vote.
+
+- (3) A member is not entitled to vote at any general meeting of the association unless all money due and payable by the member to the association has been paid.
+
+- (4) A member is not entitled to vote at any general meeting of the association if the member is under 18 years of age.
 
 #### 34. Delegated proxy votes may be permitted
 
+- (1) A member may appoint in writing another member to be the proxy of the appointing member to attend and vote on behalf of the appointing member at any general meeting.
+
+- (2) A proxy may be appointed only:
+
+	- (a) by another member in writing in the form set out in Appendix 2 of this constitution, and
+	- (b) must be lodged with the secretary prior to or at the relevant general meeting.
+
 #### 35. Electronic ballots
+
+- (1) The association may hold a postal ballot to determine any issue or proposal (other than an appeal under clause 13).
+
+- (2) A postal ballot is to be conducted in accordance with Schedule 3 to the Regulation.
+
+---
+
