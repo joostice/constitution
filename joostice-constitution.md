@@ -286,9 +286,36 @@ Subject to the Act, the Regulation and this constitution and to any resolution p
 
 #### 17. Secretary
 
+- (1) The secretary of the association must, as soon as practicable after being appointed as secretary, lodge notice with the association of his or her address.
+
+- (2) It is the duty of the secretary to keep minutes of:
+
+	- (a) all appointments of office-bearers and members of the committee, and
+	- (b) the names of members of the committee present at a committee meeting or a general meeting, and
+	- (c) all proceedings at committee meetings and general meetings.
+
 #### 18. Treasurer
 
+It is the duty of the treasurer of the association to ensure:
+	
+	- (a) that all money due to the association is collected and received and that all payments authorised by the association are made, and
+	- (b) that correct books and accounts are kept showing the financial affairs of the association, including full details of all receipts and expenditure connected with the activities of the association.
+
 #### 19. Casual vacancies
+
+- (1) In the event of a casual vacancy occurring in the membership of the committee, the committee may appoint a member of the association to fill the vacancy and the member so appointed is to hold office, subject to this constitution, until the conclusion of the annual general meeting next following the date of the appointment.
+
+- (2) A casual vacancy in the office of a member of the committee occurs if the member:
+
+	- (a) dies, or
+	- (b) ceases to be a member of the association, or
+	- (c) becomes an insolvent under administration within the meaning of the Corporations Act 2001 of the Commonwealth, or
+	- (d) resigns office by notice in writing given to the secretary, or
+	- (e) is removed from office under clause 20, or
+	- (f) becomes a mentally incapacitated person,or
+	- (g) is absent without the consent of the committee from 3 consecutive meetings of the committee, or
+	- (h) is convicted of an offence involving fraud or dishonesty for which the maximum penalty on conviction is imprisonment for not less than 3 months, or
+	- (i) is prohibited from being a director of a company under Part 2D.6 (Disqualification from managing corporations) of the Corporations Act 2001 of the Commonwealth.
 
 #### 20. Removal of committee members
 
