@@ -530,6 +530,14 @@ The association may effect and maintain insurance.
 
 #### 38. Funds - management
 
+- (1) Subject to any resolution passed by the association in general meeting, the funds of the association are to be used in pursuance of the objects of the association in such manner as the committee determines.
+
+- (2) All cheques, drafts, bills of exchange, promissory notes and other negotiable instruments from a main fundraising account must be signed by any 2 members of the committee or employees of the association, being members or employees authorised to do so by the committee, whilst a single signature general account is permissible.
+
+- (3) The assets and income of the organisation shall be applied solely in furtherance of its objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
+
+- (4) In the event of the organisation being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to another organisation with similar purposes which is not carried on for the profit or gain of its individual members.
+
 #### 39. Change of name, objects and constitution
 
 #### 40. Custody of books etc
