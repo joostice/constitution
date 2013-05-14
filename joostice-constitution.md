@@ -1,4 +1,4 @@
-Constitution of Joostice NSW <insert Inc number>
+Constitution of Joostice NSW [insert inc number]
 ===
 ### Under the Associations Incorporation Act 2009
 
