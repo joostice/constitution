@@ -382,3 +382,52 @@ It is the duty of the treasurer of the association to ensure:
 - (5) Subject to clause 21 (5), the committee may act despite any vacancy on the committee.
 
 - (6) Any act or thing done or suffered, or purporting to have been done or suffered, by the committee or by a sub-committee appointed by the committee, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the committee or sub-committee.
+
+---
+
+### 4. General meetings
+
+#### 24. Annual general meetings - holding of
+
+- (1) The association must hold its first annual general meeting within 18 months after its registration under the Act.
+
+- (2) The association must hold its annual general meetings:
+	
+	- (a) within 6 months after the close of the association’s financial year, or
+	- (b) within such later time as may be allowed by the Director-General or prescribed by the Regulation.
+
+#### 25. Annual general meetings - calling of and business at
+
+- (1) The annual general meeting of the association is, subject to the Act and to clause 24, to be convened on such date and at such place and time as the committee thinks fit.
+
+- (2) In addition to any other business which may be transacted at an annual general meeting, the business of an annual general meeting is to include the following:
+
+	- (a) to confirm the minutes of the last preceding annual general meeting and of any special general meeting held since that meeting,
+
+	- (b) to receive from the committee reports on the activities of the association during the last preceding financial year,
+
+	- (c) to elect office-bearers of the association and ordinary committee members,
+
+	- (d) to receive and consider any financial statement or report required to be submitted to members under the Act.
+
+- (3) An annual general meeting must be specified as such in the notice convening it.
+
+#### 26. Special general meetings - calling of
+
+#### 27. Notice
+
+#### 28. Quorum for general meetings
+
+#### 29. Presiding member
+
+#### 30. Adjournment
+
+#### 31. Making of decisions
+
+#### 32. Special resolutions
+
+#### 33. Voting	
+
+#### 34. Delegated proxy votes may be permitted
+
+#### 35. Electronic ballots
