@@ -605,3 +605,30 @@ I, [full name],  a member of the association, second the nomination of the appli
 [signature of seconder] [date] 
 
 ---
+
+### Appendix 2 - Application for membership of the committee
+#### (Clause 16(2))
+
+##### APPLICATION FOR MEMBERSHIP OF ASSOCIATION COMMITTEE
+##### JOOSTICE INCOPORATED [insert inc #]
+
+Incoporated (incoporated under the _Associations Incorporation Act 2009_)
+
+I, [full name of applicant] of [address], [occupation], hereby apply to become a committee member of the above named incoporated association. [role description]
+
+In the event of my admission as a committee member, I agree to be bound by the constitution of the association for the time being in force.
+
+[signature of applicant] [date]
+
+I, [full name], a member of the association, nominate the applicant for committee membership of the association.
+
+[signature of the proposer] [date]
+
+I, [full name], a member of the association, second the nomination of the applicant for committee membership of the association.
+
+[signature of seconder] [date]
+
+---
+
+
+
