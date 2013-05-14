@@ -298,8 +298,8 @@ Subject to the Act, the Regulation and this constitution and to any resolution p
 
 It is the duty of the treasurer of the association to ensure:
 	
-	- (a) that all money due to the association is collected and received and that all payments authorised by the association are made, and
-	- (b) that correct books and accounts are kept showing the financial affairs of the association, including full details of all receipts and expenditure connected with the activities of the association.
+- (a) that all money due to the association is collected and received and that all payments authorised by the association are made, and
+- (b) that correct books and accounts are kept showing the financial affairs of the association, including full details of all receipts and expenditure connected with the activities of the association.
 
 #### 19. Casual vacancies
 
@@ -344,11 +344,29 @@ It is the duty of the treasurer of the association to ensure:
 - (9) If at the adjourned meeting a quorum is not present within half an hour of the time appointed for the meeting, the meeting is to be dissolved.
 
 - (10) At a meeting of the committee:
+
 	- (a) the chair or, in the chair’s absence, the deputy-chair is to preside, or
 	- (b) if the chair and the deputy-chair are absent or unwilling to act, such one of the remaining members of the committee as may be chosen by the members present at the meeting is to preside.
 
 - (11) The Executive Director shall not be a member of the committee or a general member, except in the case of the founding Executive Director who may be a general member without voting rights for as long as the person is holding the position of Executive Director.
 
 #### 22. Delegation by committee to sub-committee
+
+- (1) The committee may, by instrument in writing, delegate to one or more sub- committees (consisting of such member or members of the association as the committee thinks fit) the exercise of such of the functions of the committee as are specified in the instrument, other than:
+
+	- (a) this power of delegation, and
+	- (b) a function which is a duty imposed on the committee by the Act or by any other law.
+
+- (2) A function the exercise of which has been delegated to a sub-committee under this clause may, while the delegation remains unrevoked, be exercised from time to time by the sub-committee in accordance with the terms of the delegation.
+
+- (3) A delegation under this clause may be made subject to such conditions or limitations as to the exercise of any function, or as to time or circumstances, as may be specified in the instrument of delegation.
+
+- (4) Despite any delegation under this clause, the committee may continue to exercise any function delegated.
+
+- (5) Any act or thing done or suffered by a sub-committee acting in the exercise of a delegation under this clause has the same force and effect as it would have if it had been done or suffered by the committee.
+
+- (6) The committee may, by instrument in writing, revoke wholly or in part any delegation under this clause.
+
+- (7) A sub-committee may meet and adjourn as it thinks proper.
 
 #### 23. Voting and decisions
