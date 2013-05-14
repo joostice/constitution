@@ -72,7 +72,7 @@ Constitution of Joostice NSW [insert inc number]
 #### 2. Definitions
 
 (1) In this constitution:
-- _association_ means Joostice Incorporated [insert inc #] trading as Joostice
+- *association* means Joostice Incorporated [insert inc #] trading as Joostice
 - committee means Committee of Management or any other committee where the affairs of the association are managed.
 - Director-General means the Director-General of the Department of Services, Technology and Administration.
 -  ordinary committee member means a member of the committee who is not an office-bearer of the association.
