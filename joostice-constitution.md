@@ -4,11 +4,11 @@ Constitution of Joostice NSW <insert Inc number>
 
 ### Contents
 
-#### 1 Preliminary
+#### 1. Preliminary
 1. Objects
 2. Definitions
 
-#### 2 Membership 
+#### 2. Membership 
 3. Membership generally
 4. Nomination for membership
 5. Cessation of membership
