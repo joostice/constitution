@@ -73,6 +73,7 @@ Constitution of Joostice NSW [insert inc number]
 
 1. In this constitution:
 
+-
 - __association__ means Joostice Incorporated [insert inc #] trading as Joostice
 - __committee__ means Committee of Management or any other committee where the affairs of the association are managed.
 - __Director-General__ means the Director-General of the Department of Services, Technology and Administration.
