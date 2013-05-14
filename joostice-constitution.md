@@ -512,3 +512,31 @@ A special resolution may only be passed by the association in accordance with se
 
 ---
 
+### 5. Miscellaneous
+
+#### 36. Insurance
+
+The association may effect and maintain insurance.
+
+#### 37. Funds - source
+
+- (1) The funds of the association are to be derived from entrance fees and annual subscriptions of members, donations and, subject to any resolution passed by the association in general meeting, such other sources as the committee determines.
+
+- (2) All money received by the association must be deposited as soon as practicable and without deduction to the credit of the association’s bank or other authorised deposit-taking institution account.
+
+- (3) The association must, as soon as practicable after receiving any money, issue an appropriate receipt.
+
+- (4) In accordance with the organisation’s principles of fundraising, no donations will be accepted from companies or organisations deriving income from sales of goods or services related to tobacco, the military, gambling or uranium industries.
+
+#### 38. Funds - management
+
+#### 39. Change of name, objects and constitution
+
+#### 40. Custody of books etc
+
+#### 41. Inspection of books etc
+
+#### 42. Service of notices
+
+#### 43. Financial year
+
